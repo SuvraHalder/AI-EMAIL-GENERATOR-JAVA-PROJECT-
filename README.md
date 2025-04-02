@@ -28,9 +28,7 @@ A Java application that generates professional emails using Gemini AI, with opti
 [Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
 
 
-## Optimizations
 
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
 
 
@@ -151,4 +149,16 @@ Create a .env file with:
   Connection pooling implementation
 
 
+# FUTURE PLANS
 
+## MULTIMEDIA SUPPORT
+- Add image attachment handling
+- Enable PDF/PPT file embedding
+- Implement video link previews
+- Support audio message attachments
+
+## IMPROVED RESPONSES
+- Add tone selection (Professional/Friendly/Formal)
+- Include language options (English/Hindi/Bengali)
+- Implement response rating system
+- Add AI-generated follow-up suggestions
