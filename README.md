@@ -106,15 +106,24 @@ Create a .env file with:
 - JDBC_DRIVER_URL=jdbc:mysql://your_db_url
 
 ## Screenshots
-###Run The Gui and Give User Inputs
+##Run The Gui and Give User Inputs
+
 ![Run The Gui and Give User Inputs](https://github.com/SuvraHalder/AI-EMAIL-GENERATOR-JAVA-PROJECT-/blob/921f32ee5de3d9a4debd503b6b6185607e452449/Screenshot%202025-04-02%20131013.png)
-###Now Run The Serve
+
+##Now Run The Server
+
 ![Now Run The Server](https://github.com/SuvraHalder/AI-EMAIL-GENERATOR-JAVA-PROJECT-/blob/921f32ee5de3d9a4debd503b6b6185607e452449/Screenshot%202025-04-02%20131135.png)
-###Now Press Generate Email to Generate Email Body
+
+##Now Press Generate Email to Generate Email Body
+
 ![Now Press Generate Email to Generate Email Body](https://github.com/SuvraHalder/AI-EMAIL-GENERATOR-JAVA-PROJECT-/blob/921f32ee5de3d9a4debd503b6b6185607e452449/Screenshot%202025-04-02%20131351.png)
-###Now Check The CheckBox to Finalize the Email and press The Generate email Button to Send The Email
+
+##Now Check The CheckBox to Finalize the Email and press The Generate email Button to Send The Email
+
 ![Now Check The CheckBox to Finalize the Email and press The Generate email Button to Send The Email](https://github.com/SuvraHalder/AI-EMAIL-GENERATOR-JAVA-PROJECT-/blob/921f32ee5de3d9a4debd503b6b6185607e452449/Screenshot%202025-04-02%20131359.png)
-###Email Sent Properly
+
+##Email Sent Properly
+
 ![Email Sent Properly](https://github.com/SuvraHalder/AI-EMAIL-GENERATOR-JAVA-PROJECT-/blob/921f32ee5de3d9a4debd503b6b6185607e452449/Screenshot%202025-04-02%20131438.png)
 ## Contribution
 
