@@ -119,25 +119,25 @@ Create a .env file with:
 ## Contribution
 
 ### Frontend (GUI)
-- **Amit Thakur**  
+- **Amit Thakur(524110031)**  
   `GUIService.java` - Main application window design  
   `ClientService.java` - Client-server communication handler
 
-- **Pratush Singh**  
+- **Pratyush Kumar(524110044)**  
   UI components, input validation, and user experience
 
 ### Backend
-- **Sayan Pradhan**  
+- **Sayan Pradhan(524410009)**  
   `Server.java` - Socket programming and   
   Network protocol design (`::`-delimited format)
 
 ### AI & Email Services
-- **Suvra Halder**  
+- **Suvra Halder(524410030)**  
   `GeminiFacade.java` - Gemini API integration  
   `GmailSender.java` - JavaMail configuration and delivery
 
 ### Database
-- **Brahmananda Bhoi**  
+- **Brahmananda Bhoi(524110061)**  
   `JDBCservice.java` - Database schema and CRUD operations  
   Connection pooling implementation
 
